@@ -1,0 +1,8 @@
+venv/
+*/data/
+.idea
+.ipynb_checkpoints/
+titanic/result/
+tf2.0-qa/data/
+tf2.0-qa/result/
+tf2.0-qa/util/
